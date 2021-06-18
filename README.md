@@ -56,7 +56,7 @@ The project covered the following concepts:
 - babel-polyfill version 6.26.0
 - babel-preset-env version 1.6.1
 - live-server version 1.2.1
-- - moment version 2.22.1
+- moment version 2.22.1
 - uuid version 3.2.1
 - webpack version 5.38.1
 - webpack-cli version 4.7.0
