@@ -49,18 +49,18 @@ The project covered the following concepts:
 
 ## Dependencies
 
-@babel/preset-env version 7.14.4
-babel-cli version 6.26.0
-babel-loader version 8.2.2
-babel-plugin-transform-object-rest-spread version 6.26.0"
-babel-polyfill version 6.26.0
-babel-preset-env version 1.6.1
-live-server version 1.2.1
-moment version 2.22.1
-uuid version 3.2.1
-webpack version 5.38.1
-webpack-cli version 4.7.0
-webpack-dev-server version 3.11.2
+- @babel/preset-env version 7.14.4
+- babel-cli version 6.26.0
+- babel-loader version 8.2.2
+- babel-plugin-transform-object-rest-spread version 6.26.0"
+- babel-polyfill version 6.26.0
+- babel-preset-env version 1.6.1
+- live-server version 1.2.1
+- - moment version 2.22.1
+- uuid version 3.2.1
+- webpack version 5.38.1
+- webpack-cli version 4.7.0
+- webpack-dev-server version 3.11.2
 
 ## Status
 
